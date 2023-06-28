@@ -1,4 +1,7 @@
-
+# Code template by Jakob Aungiers 
+# Modified by: Sheikh Rabiul Islam
+# Date: 11/10/2017 
+# Purpose : stock market volatility prediction
 import lstm
 import time
 import matplotlib.pyplot as plt
@@ -66,7 +69,7 @@ if __name__=='__main__':
 	    X_train,
 	    y_train,
 	    batch_size=512,
-	    nb_epoch=epochs,
+	    epochs=epochs,
 	    validation_split=0.05)
 	fig_name = company + '_' + dataset + '_' + method	
 	print(fig_name)	
