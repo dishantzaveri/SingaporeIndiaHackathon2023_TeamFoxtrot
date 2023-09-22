@@ -1,13 +1,24 @@
 
-![EIH_Page_01](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/ce61d53a-e055-4e80-8edc-adf51894cca0)
-![EIH_Page_02](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/5d855f8f-bf2e-4c82-af05-16fc4654b6eb)
-![EIH_Page_03](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/944712b8-9511-44b2-8471-444bba946cbd)
-![EIH_Page_04](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/4909f8a2-1150-4d52-96a7-fed942cdc553)
-![EIH_Page_05](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/7b55604b-710e-493f-a008-29a8c2c02486)
-![EIH_Page_06](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/d30d8054-fd23-4e17-8866-afd18319b8de)
-![EIH_Page_07](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/d500bbee-5efa-4d3a-82f2-37299c73da98)
-![EIH_Page_08](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/55df098d-4efc-488f-a9b1-8e760d08f785)
-![EIH_Page_09](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/cb3e7756-2331-4cb9-9e57-b0102b07e7eb)
+
+![FOXTROT_Page_01](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/12ca9710-b0b9-4899-85db-2c23315f3ab2)
+
+![FOXTROT_Page_02](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/a7889832-bb47-4009-a53d-4abe9d008349)
+
+![FOXTROT_Page_03](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/469d0ad3-aeea-4f2a-b12a-30c77d8dda5d)
+
+![FOXTROT_Page_04](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/b0e5b63d-1ab7-4aa1-83d5-8353d1430f33)
+
+![FOXTROT_Page_05](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/d9716007-0919-4892-b83c-8b3c707a0970)
+
+![FOXTROT_Page_06](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/d681ba7c-68b0-49e0-bae0-ede14c3d205d)
+
+![FOXTROT_Page_07](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/2a49acda-1873-44f9-8a04-dbd45dd9b886)
+
+![FOXTROT_Page_08](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/49b7b617-2eca-4d6e-bf24-445253ab254c)
+
+![FOXTROT_Page_09](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/d38f5aaf-adf6-4079-8140-e1a19c5d29ae)
+
+
 
 ![1](https://github.com/dishantzaveri/SingaporeIndiaHackathon2023_TeamFoxtrot/assets/80118978/aebe7261-aebf-46fb-a145-de1884d6bde3)
 
